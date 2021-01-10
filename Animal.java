@@ -5,7 +5,8 @@ public class Animal {
 	//宣告實體變數
 	private int age;
 	private float weight; 
-	private int size;
+	private int color;
+
 	
 	
 	
